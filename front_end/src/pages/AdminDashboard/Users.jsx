@@ -17,7 +17,7 @@ import PaymentsIcon from '@mui/icons-material/Payments';
 import YourComponent from './graphData';
 import Dashboard from './Dashboard';
 import TransactionCard from './TransactionCard';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
 import Skeleton from '@mui/material/Skeleton';
 import {useSearchParams} from "react-router-dom"

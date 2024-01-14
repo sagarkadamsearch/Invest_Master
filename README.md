@@ -2,6 +2,7 @@
 
 Invest Master is a comprehensive platform for buying and exploring cryptocurrency. It features a user-friendly interface, real-time market data, and seamless payment gateway integration.
 
+
 ## Table of Contents
 
 - [Installation](#installation)
