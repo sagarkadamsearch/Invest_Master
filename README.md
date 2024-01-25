@@ -21,6 +21,7 @@ Invest Master is a comprehensive platform for buying and exploring cryptocurrenc
 - [Screenshots](#screenshots)
 
 
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/sagarkadamsearch/data-horizon-1234.git`
